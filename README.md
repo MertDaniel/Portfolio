@@ -1,5 +1,5 @@
-#Portfolio - Daniel Andersen
-##Oversigt
+# Portfolio - Daniel Andersen
+## Oversigt
 Dette repository indeholder kildekoden til min personlige portefølje-hjemmeside. Hjemmesiden viser mine færdigheder, projekter og erfaringer som datalogistuderende. Den er designet til at give en omfattende oversigt over mit arbejde og mine præstationer til potentielle arbejdsgivere og samarbejdspartnere.
 
 __________________________________________________________________
